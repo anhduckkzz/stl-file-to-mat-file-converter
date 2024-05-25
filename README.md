@@ -3,7 +3,7 @@
 *General*:
 This python code will generate for you 4 file: vertice.mat, vertice.txt, edge.mat, edge.txt
 vertice.mat and edge.mat are the 2 files you will use to draw your 3D shape, the other two txt files just use to check what is written in the file.
-
+The bunny folder and low_poly_fawn folder are just 2 example models if you want to have a try, if you don't need the example files, no need to care about them.
 This will help you to convert a 3D picture and reconstructor that 3D shape on MATLAB using data is vertices and edges;
 
 Step-by-step using this code:
